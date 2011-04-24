@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response user_id="123456">
+	<url>bar.swf</url>
+	<format>JPG</format>
+	<queueId>123</queueId>
+	<startFrame>2</startFrame>
+	<endFrame>20</endFrame>
+</response>
